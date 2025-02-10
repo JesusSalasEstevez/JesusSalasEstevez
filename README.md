@@ -16,15 +16,14 @@ Here are some of the technologies I use and am currently learning:
 
 Here’s a look at my GitHub activity! 🚀
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=JesusSalasEstevez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📬 Let's Connect
 
 You can find me on:
 
-- **LinkedIn**: [Your LinkedIn Profile](link_to_your_linkedin)
-- **Twitter**: [@YourTwitter](link_to_your_twitter)
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
+- **LinkedIn**: [Jesús Salas Estévez](https://www.linkedin.com/in/jes%C3%BAs-salas-est%C3%A9vez-96473a293/)
+- **Email**: [jesussalasestevez@gmail.com](mailto:jesussalasestevez@gmail.com)
 
 I’m always open to talking about technology, projects, or anything you’re interested in. Let’s connect!
 
