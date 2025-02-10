@@ -1,45 +1,31 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# Hi, I'm [Jesús Salas Estévez]! 👋
 
-Soy un/a desarrollador/a apasionado/a por la tecnología, el código limpio y la creación de soluciones innovadoras. Siempre busco aprender algo nuevo y mejorar mis habilidades. Si te interesa colaborar en proyectos interesantes, ¡no dudes en contactarme!
+I’m a Computer Science student at the University of Granada, and I’m passionate about software development. Currently, I’m enhancing my knowledge in web development using frameworks like Node.js and React by building my own API and web application.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Technologies and Tools
 
-Aquí hay algunas de las tecnologías que utilizo y con las que estoy aprendiendo:
+Here are some of the technologies I use and am currently learning:
 
-- 🌐 **Lenguajes de Programación**: JavaScript, Python, Java, C++
-- 🖥️ **Frameworks y Librerías**: React, Node.js, Django, Flask, Express
-- 🛠️ **Herramientas**: Git, Docker, Jenkins
-- 📊 **Bases de Datos**: MySQL, MongoDB, PostgreSQL
-- ☁️ **Cloud**: AWS, Google Cloud, Azure
-- 🧑‍💻 **Otros**: HTML5, CSS3, TailwindCSS
+- 🌐 **Programming Languages**: JavaScript, Java, C++, C, Ruby
+- 🖥️ **Frameworks and Libraries**: React, Node.js, Express
+- 🛠️ **Tools**: Git
+- 📊 **Databases**: MySQL, MongoDB
+- 🧑‍💻 **Other**: HTML5, CSS3
 
-## 🚀 Proyectos Destacados
+## 📈 GitHub Stats
 
-### [Proyecto 1](link_a_tu_proyecto)
-Descripción breve del proyecto y lo que hiciste. Usa este espacio para resaltar logros o características interesantes.
+Here’s a look at my GitHub activity! 🚀
 
-### [Proyecto 2](link_a_tu_proyecto)
-Otra breve descripción. Resalta tu trabajo, si el proyecto tiene un propósito social o una tecnología interesante, ¡menciónalo!
+![Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### [Proyecto 3](link_a_tu_proyecto)
-Lo que quieras destacar, algún reto que hayas superado o una innovación que hayas implementado.
+## 📬 Let's Connect
 
-## 📈 Estadísticas de GitHub
+You can find me on:
 
-¡Aquí tienes un vistazo a mi actividad en GitHub! 🚀
+- **LinkedIn**: [Your LinkedIn Profile](link_to_your_linkedin)
+- **Twitter**: [@YourTwitter](link_to_your_twitter)
+- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 📬 Conectemos
-
-Puedes encontrarme en:
-
-- **LinkedIn**: [Tu Perfil de LinkedIn](enlace_a_tu_linkedin)
-- **Twitter**: [@TuTwitter](enlace_a_tu_twitter)
-- **Correo electrónico**: [tu.email@dominio.com](mailto:tu.email@dominio.com)
-
-Estoy siempre dispuesto a hablar sobre tecnología, proyectos o cualquier cosa que te interese. ¡Vamos a conectar!
+I’m always open to talking about technology, projects, or anything you’re interested in. Let’s connect!
 
 ---
-
-> "La tecnología es mejor cuando reúne a las personas." – Matt Mullenweg
