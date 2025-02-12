@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies and Tools
 
-Here are some of the technologies I use and am currently using:
+Here are some of the technologies I am currently using:
 
 - 🌐 **Programming Languages**: JavaScript, Java, C++, C, Ruby
 - 🖥️ **Frameworks and Libraries**: React, Node.js, Express
