@@ -20,6 +20,7 @@ Here are some of the technologies I am currently using:
 Here’s a look at my GitHub activity! 🚀
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JesusSalasEstevez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusSalasEstevez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Let's Connect
 
