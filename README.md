@@ -10,7 +10,7 @@
 Here are some of the technologies I am currently using:
 
 - 🌐 **Programming Languages**: JavaScript, Java, C++, C, Ruby, Python
-- 🖥️ **Frameworks and Libraries**: React, Node.js, Express
+- 🖥️ **Frameworks and Libraries**: React, Node.js, Express, Three.js, Raylib
 - 🛠️ **Tools**: Git
 - 📊 **Databases**: MySQL, MongoDB
 - 🧑‍💻 **Other**: HTML5, CSS3
