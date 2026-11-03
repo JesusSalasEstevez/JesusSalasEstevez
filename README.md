@@ -15,19 +15,11 @@ Here are some of the technologies I am currently using:
 - 📊 **Databases**: MySQL, MongoDB
 - 🧑‍💻 **Other**: HTML5, CSS3
 
-## 📈 GitHub Stats
-
-Here’s a look at my GitHub activity! 🚀
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JesusSalasEstevez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusSalasEstevez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📬 Let's Connect
 
 You can find me on:
 
 - **LinkedIn**: [Jesús Salas Estévez](https://www.linkedin.com/in/jes%C3%BAs-salas-est%C3%A9vez-96473a293/)
 - **Email**: [jesussalasestevez@gmail.com](mailto:jesussalasestevez@gmail.com)
-
+- **Portfolio**: [Jesús Salas Estévez](https://jesussalasestevez.vercel.app)
 
